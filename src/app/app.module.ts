@@ -14,6 +14,7 @@ import { HeaderComponent } from './header/header.component'
 import { PostListComponent } from './posts/post-list/post-list.component'
 import { FooterComponent } from './footer/footer.component'
 
+
 @NgModule({
   declarations: [
     AppComponent,
